@@ -1,0 +1,90 @@
+.header{
+    /* background-image: url(.//bedlogo.png); */
+    background-color: coral;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 300px;
+
+}
+.nav{
+    color: red;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    /* text-decoration: n; */
+
+}
+.cryp{
+    color: rgb(3, 3, 79);
+    margin-bottom: 30px;
+    font-size: 30px;
+    /* text-align: center; */
+}
+.more{
+    color: rgb(11, 11, 134);
+    font-size: 20px;
+}
+.lux{
+    color:rgb(7, 7, 124);
+    font-size: 50px;
+}
+.home{
+    color: red;
+}
+.navbar{
+    background-color: black;
+}
+.row{
+    color: red;
+}
+/* this cover shop, buy and sell */
+.qon2 :hover{
+    color:#dd1256;
+    /* color: black; */
+}
+.qon2{
+    padding: 1px;
+    border-radius: 90px;
+    font-size: 25px;
+    width: 150px;
+    background-color: chartreuse;
+}
+.face{
+    background-color: blue;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.what{
+    background-color: green;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.insta{
+    background-color: purple;
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.tweet{
+    background-color: rgb(63, 63, 196);
+    color: white;
+    padding: 7px;
+    border-radius: 50px;
+}
+.card-text{
+    color: black;
+/* }
+.card-text :hover{
+    padding: 1px;
+    border-radius: 90px;
+    font-size: 25px;
+    width: 150px;
+    background-color: white; */
+}
+.bac{
+ border-radius: 80px;   
+}

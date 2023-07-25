@@ -1,0 +1,17 @@
+.header3{
+    /* background-image: url(.//bedlogo.png); */
+    background-color: coral;
+    /* width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 300px; */
+}
+.lux{
+    color:rgb(7, 7, 124);
+    font-size: 50px;
+}
+/* all about the bedsheets */
+.card-img-top{
+    border-radius: 80px;
+}
